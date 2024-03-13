@@ -176,3 +176,14 @@
     padding: 15px;
     border-radius: 25px;
 }
+
+/* 22 Box Model */
+
+.box-model {
+    margin: 20px;
+    background-color: aquamarine;
+    padding: 15px 25px;
+    border: 2px solid red;
+    width: 200px;
+    height: 400px;
+}
