@@ -187,3 +187,19 @@
     width: 200px;
     height: 400px;
 }
+
+/* DESAFIO */
+
+#boxmodel-desafio3 {
+    margin: 20px;
+    background-color: burlywood;
+    padding: 15px 15px;
+    border: 2px solid brown;
+    width: 200px;
+    height: 70px;
+}
+
+.h2-desafio3 {
+    background-color: yellowgreen;
+    outline: 2px solid #a5f;
+}
